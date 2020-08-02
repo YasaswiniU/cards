@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "cards"
+    }
+  },
+  "defaultProject": "cards",
+  "cli": {
+    "analytics": "0dfd3d4a-1273-4845-81c9-5c6d340e3950"
+  }
 }
