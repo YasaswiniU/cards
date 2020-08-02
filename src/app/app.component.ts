@@ -28,7 +28,7 @@ export class AppComponent {
     },
     {
       title: 'Mountain Biking',
-      imageUrl: '../assets/images/biking.jpeg',
+      imageUrl: 'assets/images/biking.jpeg',
       username: 'mountainlover',
       content: 'I went to biking today'
     }
